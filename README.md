@@ -23,7 +23,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Program and Output:
 ```
 developed by : Adharsh Vidyardh U
-reg no       : 212224230242
+reg no       : 212224230007
 ```
 ```python
 import pandas as pd 
